@@ -1,6 +1,7 @@
 package Thuchanh4.Sinhvien.Entities;
 
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class SinhVien {
     private String hoTen;
@@ -36,9 +37,11 @@ public class SinhVien {
     public double getdTB() {
         return dTB;
     }
-
+    public String getHocLuc(){
+        return HocLuc();
+    }
     public void hienThi(){
-        System.out.println("Ho va Ten: " + this.hoTen + " Ngay Sinh: " + this.ngaySinh + " Tuoi: " + this.TinhTuoi() + " DTB: " + this.dTB);
+        System.out.println("Ho va Ten: " + this.hoTen + " Ngay Sinh: " + this.ngaySinh.format(DateTimeFormatter.ofPattern("dd/MM/yyyy")) + " Tuoi: " + this.TinhTuoi() + " DTB: " + this.dTB + " Xep Loai: " + this.getHocLuc());
     }
     public String TachHo(){
         int vt = this.hoTen.indexOf(" ");
