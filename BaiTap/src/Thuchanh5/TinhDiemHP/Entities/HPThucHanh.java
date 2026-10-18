@@ -13,6 +13,6 @@ public class HPThucHanh extends DiemHP{
     }
     @Override
     public double tinhDiem() {
-        return (db1 + db2 + db3)/3;
+        return (db1 + db2 + db3)/3.0;
     }
 }

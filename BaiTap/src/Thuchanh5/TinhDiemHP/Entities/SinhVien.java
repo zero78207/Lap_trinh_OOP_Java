@@ -27,5 +27,7 @@ public class SinhVien {
     public double getHp2() {
         return hp2.tinhDiem();
     }
-    
+    public void hienThi(){
+        System.out.println("Ho va Ten: " + getHoTen() + " Hoc Phan 1: " + getHp1() + " Hoc Phan 2: " + getHp2() + " DTB: " + tinhDTB());
+    }
 }
