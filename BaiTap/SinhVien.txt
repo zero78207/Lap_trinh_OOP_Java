@@ -1,0 +1,5 @@
+|SV001|Tu Minh Duc|2007|8.8|SVSP|Dai Hoc Quy Nhon|7.5
+|SV002|Tran Thi Binh|2003|7.6|SVTH|Ung dung quan ly thu vien|8.0
+|SV003|Le Minh Chau|2004|9.1|SVSP|Truong THPT Tran Phu|8.4
+|SV004|Pham Quoc Dung|2002|6.9|SVTH|Website ban hang truc tuyen|6.5
+|SV005|Vo Ngoc Ha|2003|8.7|SVSP|Truong THPT Nguyen Hue|7.0
