@@ -1,0 +1,4 @@
+hello|danh_tu|xin chao|Hello, how are you?
+book|danh_tu|quyen sach|I read a book every day.
+run|dong_tu|chay|I run in the park.
+beautiful|tinh_tu|xinh dep|She has a beautiful garden.
