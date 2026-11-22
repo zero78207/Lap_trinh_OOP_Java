@@ -1,0 +1,6 @@
+MOTOR,MT001,PCX 125,50000,false,125
+OTO,OTO001,Toyota,100000,false,8,true
+MOTOR,MT002,Air Blade 160,65000,true,160
+OTO,OTO002,Honda CR-V,180000,true,7,false
+MOTOR,MT003,Yamaha Sirius,45000,false,115
+OTO,OTO003,Hyundai Accent,120000,false,5,true
